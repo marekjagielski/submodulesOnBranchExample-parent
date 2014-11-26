@@ -1,0 +1,6 @@
+[submodule "submodulesOnBranchExample-1"]
+	path = submodulesOnBranchExample-1
+	url = https://github.com/marekjagielski/submodulesOnBranchExample-1.git
+[submodule "submodulesOnBranchExample-2"]
+	path = submodulesOnBranchExample-2
+	url = https://github.com/marekjagielski/submodulesOnBranchExample-2.git
